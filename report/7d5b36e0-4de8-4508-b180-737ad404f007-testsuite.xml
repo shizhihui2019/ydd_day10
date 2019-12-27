@@ -1,0 +1,186 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1577417094625" stop="1577417249322">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1577417094625" status="passed" stop="1577417141723">
+      <description>
+        测试方法
+        :param phone: 手机号
+        :param passwd: 密码
+        :param mess: 提示消息拼接内容
+        :param expData: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login[18722024314-123456-None-\u7528\u6237_7199]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10600-MainThread"/>
+        <label name="host" value="DESKTOP-8043UC3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577417141725" status="passed" stop="1577417166313">
+      <description>
+        测试方法
+        :param phone: 手机号
+        :param passwd: 密码
+        :param mess: 提示消息拼接内容
+        :param expData: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login[ 18722024314-123456-None-\u7528\u6237_7199]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10600-MainThread"/>
+        <label name="host" value="DESKTOP-8043UC3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577417166315" status="passed" stop="1577417190460">
+      <description>
+        测试方法
+        :param phone: 手机号
+        :param passwd: 密码
+        :param mess: 提示消息拼接内容
+        :param expData: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login[18722024314 -123456-None-\u7528\u6237_7199]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10600-MainThread"/>
+        <label name="host" value="DESKTOP-8043UC3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577417190461" status="passed" stop="1577417198528">
+      <description>
+        测试方法
+        :param phone: 手机号
+        :param passwd: 密码
+        :param mess: 提示消息拼接内容
+        :param expData: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login[18722024314-123457-\u9519\u8bef-\u8d26\u53f7\u6216\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10600-MainThread"/>
+        <label name="host" value="DESKTOP-8043UC3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577417198530" status="passed" stop="1577417208970">
+      <description>
+        测试方法
+        :param phone: 手机号
+        :param passwd: 密码
+        :param mess: 提示消息拼接内容
+        :param expData: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login[1872202431-123457-\u8fd8\u672a\u6ce8\u518c-\u8d26\u53f7\u8fd8\u672a\u6ce8\u518c\uff0c\u8bf7\u60a8\u5148\u8fdb\u884c\u6ce8\u518c]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10600-MainThread"/>
+        <label name="host" value="DESKTOP-8043UC3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577417208973" status="passed" stop="1577417219169">
+      <description>
+        测试方法
+        :param phone: 手机号
+        :param passwd: 密码
+        :param mess: 提示消息拼接内容
+        :param expData: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login[187220243141-123457-\u8fd8\u672a\u6ce8\u518c-\u8d26\u53f7\u8fd8\u672a\u6ce8\u518c\uff0c\u8bf7\u60a8\u5148\u8fdb\u884c\u6ce8\u518c]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10600-MainThread"/>
+        <label name="host" value="DESKTOP-8043UC3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577417219173" status="passed" stop="1577417228860">
+      <description>
+        测试方法
+        :param phone: 手机号
+        :param passwd: 密码
+        :param mess: 提示消息拼接内容
+        :param expData: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login[11488834011-123457-\u8fd8\u672a\u6ce8\u518c-\u8d26\u53f7\u8fd8\u672a\u6ce8\u518c\uff0c\u8bf7\u60a8\u5148\u8fdb\u884c\u6ce8\u518c]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10600-MainThread"/>
+        <label name="host" value="DESKTOP-8043UC3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577417228863" status="passed" stop="1577417238840">
+      <description>
+        测试方法
+        :param phone: 手机号
+        :param passwd: 密码
+        :param mess: 提示消息拼接内容
+        :param expData: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login[hello#-123457-\u8fd8\u672a\u6ce8\u518c-\u8d26\u53f7\u8fd8\u672a\u6ce8\u518c\uff0c\u8bf7\u60a8\u5148\u8fdb\u884c\u6ce8\u518c]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10600-MainThread"/>
+        <label name="host" value="DESKTOP-8043UC3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1577417238843" status="passed" stop="1577417249322">
+      <description>
+        测试方法
+        :param phone: 手机号
+        :param passwd: 密码
+        :param mess: 提示消息拼接内容
+        :param expData: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login[13333333333-159357-\u8fd8\u672a\u6ce8\u518c-\u8d26\u53f7\u8fd8\u672a\u6ce8\u518c\uff0c\u8bf7\u60a8\u5148\u8fdb\u884c\u6ce8\u518c]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10600-MainThread"/>
+        <label name="host" value="DESKTOP-8043UC3"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
